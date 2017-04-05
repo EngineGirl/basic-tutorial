@@ -85,6 +85,11 @@
    
    6.2 打开 https://github.com/settings/ssh ，点击 Add SSH Key 按钮，粘贴进去保存即可。
 
+7.
+    # Github是基于Git这个开源软件的平台，所以大家需要先对Git有部分了解
+    https://rogerdudler.github.io/git-guide/index.zh.html
+    http://backlogtool.com/git-guide/cn/
+
 ## 下载软件
 ### Git下载
 
