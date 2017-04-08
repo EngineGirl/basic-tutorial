@@ -15,6 +15,8 @@
 
 ### WordPress 新手 - 如何开始
 
+    https://codex.wordpress.org/zh-cn:WordPress_%E6%96%B0%E6%89%8B_-_%E5%A6%82%E4%BD%95%E5%BC%80%E5%A7%8B
+
 - WordPress入门 之 什么是WordPress？
 - WordPress入门 之 什么是WordPress？
 - WordPress入门 之 搭建WordPress站点需要什么条件？
@@ -27,7 +29,6 @@
 - WordPress入门 之 设置导航菜单
 - WordPress入门 之 安装主题和插件
 
-    [WordPress系列教程](https://codex.wordpress.org/zh-cn:WordPress_%E6%96%B0%E6%89%8B_-_%E5%A6%82%E4%BD%95%E5%BC%80%E5%A7%8B)
 
 ### 免费WordPress模版
 
