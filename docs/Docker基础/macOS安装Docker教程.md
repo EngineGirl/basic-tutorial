@@ -10,10 +10,10 @@
 1. 下载软件[Docker for macOS](https://download.docker.com/mac/stable/Docker.dmg)
 2. 双击Docker.dmg安装
 
-    ![docker-app-drap](https://github.com/EngineGirl/basic-tutorial/blob/master/imgs/macOX/install_docker/docker-app-drag.png?raw=true)
+    ![docker-app-drap](https://raw.githubusercontent.com/EngineGirl/basic-tutorial/master/imgs/install_docker/macOX/docker-app-drag.png)
 3. 双击应用程序中的Docker.app来启动Docker
 
-    ![docker-app-inapp](https://github.com/EngineGirl/basic-tutorial/blob/master/imgs/macOX/install_docker/docker-app-in-apps.png?raw=true)
+    ![docker-app-inapp](https://raw.githubusercontent.com/EngineGirl/basic-tutorial/master/imgs/install_docker/macOX/docker-app-in-apps.png)
 4. 系统会请求你输入密码来启动Docker，Docker需要特殊权限来安装网络组件
 5. 然后可以在屏幕右上角看到Docker的标志
 
