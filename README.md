@@ -293,5 +293,3 @@ Linux系统
     cd C:\whatever\sunkist\
     # 或者
     cd ..\..\whatever\sunkist\
-
-## 字符串编码
