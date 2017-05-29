@@ -30,11 +30,11 @@
   
 
 
-![1](https://raw.githubusercontent.com/EngineGirl/basic-tutorial/master/img/github_1.jpeg)
+![1](https://raw.githubusercontent.com/EngineGirl/basic-tutorial/master/imgs/github_1.jpeg)
 
-![2](https://raw.githubusercontent.com/EngineGirl/basic-tutorial/master/img/github_2.jpeg)
+![2](https://raw.githubusercontent.com/EngineGirl/basic-tutorial/master/imgs/github_2.jpeg)
 
-![3](https://raw.githubusercontent.com/EngineGirl/basic-tutorial/master/img/github_3.jpeg)
+![3](https://raw.githubusercontent.com/EngineGirl/basic-tutorial/master/imgs/github_3.jpeg)
 
 
 注册成功后需要创建公钥。
