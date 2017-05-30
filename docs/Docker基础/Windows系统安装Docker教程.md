@@ -40,7 +40,14 @@
 ####启动Docker
 安装完成后Docker会自动启动，你可以从状态栏看到Docker正在运作
 ![win-install-success-popup-cloud](https://raw.githubusercontent.com/EngineGirl/basic-tutorial/master/imgs/install_docker/Windows/win-install-success-popup-cloud.png)
-就这样愉快地结束了。
+
+####验证安装成功
+运行[终端](#../基础知识/终端.md)(cmd.exe或者PowerShell)
+
+    PS C:\Users\Docker> docker --version
+    Docker version 17.03.0-ce, build 60ccb22
+
+看到Docker version提示的字样代表安装成功了
 
 ##第二节
 如果不满足条件（例如你使用的是Windows7或者Windows8系统）我们需要安装另外一款工具来运行Docker
@@ -69,3 +76,6 @@
 - 点击右边链接下载[Docker Toolbox](https://download.docker.com/win/stable/DockerToolbox.exe)
 - 下载完毕后双击安装，如果这时候系统问你是不是允许程序修改，点击Yes
 - 选择默认选项直到安装完毕
+
+##验证安装成功
+
