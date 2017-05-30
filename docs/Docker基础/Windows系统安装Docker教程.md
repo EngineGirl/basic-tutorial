@@ -70,12 +70,47 @@
     运行[Microsoft® Hardware-Assisted Virtualization Detection Tool](http://www.microsoft.com/en-us/download/details.aspx?id=592)工具，然后按照步骤来检测。
 
 
-##开始安装
+###开始安装
 
 - 确保自己没有运行Virtual Box（默认系统没有按照这个软件）
 - 点击右边链接下载[Docker Toolbox](https://download.docker.com/win/stable/DockerToolbox.exe)
 - 下载完毕后双击安装，如果这时候系统问你是不是允许程序修改，点击Yes
 - 选择默认选项直到安装完毕
 
-##验证安装成功
+###验证安装成功
 
+- 双击打开Docker Toolbox
+![Docker Toolbox Icon]()
+- 点击Yes获取修改权限
+- 然后系统会进行一些操作，你会看到以下的图片
+![Docker Toolbox Bash]()
+- 看到这个$符号就代表启动完成，这时候在终端输入
+
+        docker run hello-world
+
+然后看到：
+
+    $ docker run hello-world
+    Unable to find image 'hello-world:latest' locally
+    Pulling repository hello-world
+    91c95931e552: Download complete
+    a8219747be10: Download complete
+    Status: Downloaded newer image for hello-world:latest
+    Hello from Docker.
+    This message shows that your installation appears to be working correctly.
+
+    To generate this message, Docker took the following steps:
+     1. The Docker Engine CLI client contacted the Docker Engine daemon.
+     2. The Docker Engine daemon pulled the "hello-world" image from the Docker Hub.
+        (Assuming it was not already locally available.)
+     3. The Docker Engine daemon created a new container from that image which runs the
+        executable that produces the output you are currently reading.
+     4. The Docker Engine daemon streamed that output to the Docker Engine CLI client, which sent it
+        to your terminal.
+
+    To try something more ambitious, you can run an Ubuntu container with:
+     $ docker run -it ubuntu bash
+
+    For more examples and ideas, visit:
+     https://docs.docker.com/userguide/
+就代表Docker已经成功安装并且可以运行啦。
