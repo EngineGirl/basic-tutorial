@@ -35,6 +35,7 @@
 
 4. 输入系统管理员密码使Docker可以安装网络组件。
 5. 完成
+
 ![windows-docker-install-finished](https://raw.githubusercontent.com/EngineGirl/basic-tutorial/master/imgs/install_docker/Windows/installer-finishes.png)
 
 ####启动Docker
@@ -72,19 +73,19 @@
 
 ###开始安装
 
-- 确保自己没有运行Virtual Box（默认系统没有按照这个软件）
-- 点击右边链接下载[Docker Toolbox](https://download.docker.com/win/stable/DockerToolbox.exe)
-- 下载完毕后双击安装，如果这时候系统问你是不是允许程序修改，点击Yes
-- 选择默认选项直到安装完毕
+1. 确保自己没有运行Virtual Box（默认系统没有按照这个软件）
+2. 点击右边链接下载[Docker Toolbox](https://download.docker.com/win/stable/DockerToolbox.exe)
+3. 下载完毕后双击安装，如果这时候系统问你是不是允许程序修改，点击Yes
+4. 默认选项直到安装完毕
 
 ###验证安装成功
 
-- 双击打开Docker Toolbox
+1. 双击打开Docker Toolbox
 ![Docker Toolbox Icon](https://raw.githubusercontent.com/EngineGirl/basic-tutorial/master/imgs/install_docker/Windows/icon-set.png)
-- 点击Yes获取修改权限
-- 然后系统会进行一些操作，你会看到以下的图片
+2. 点击Yes获取修改权限
+3. 然后系统会进行一些操作，你会看到以下的图片
 ![Docker Toolbox Bash](https://raw.githubusercontent.com/EngineGirl/basic-tutorial/master/imgs/install_docker/Windows/b2d_shell.png)
-- 看到这个$符号就代表启动完成，这时候在终端输入
+4. 看到这个$符号就代表启动完成，这时候在终端输入
 
         docker run hello-world
 
