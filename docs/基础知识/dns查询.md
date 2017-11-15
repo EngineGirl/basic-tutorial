@@ -1,6 +1,6 @@
 ### DNS查询
 
-![域名browser]()
+![域名browser](https://raw.githubusercontent.com/EngineGirl/basic-tutorial/master/imgs/basic/%E5%9F%9F%E5%90%8Dbrowser.png)
 
     http://www.apple.com
 
@@ -15,7 +15,7 @@ www.ieee.org  23.38.177.118
 
 问题随着时间发展出现了，小时候的黄页每年买一本，要是在一年中你更换了电话号码，其他人也就找不到你了。互联网也是，每个小时都有新的域名被注册，新的主机加入互联网，如果还只是继续更新一个文件会有几个问题。1. 主机数量太多了，现在已经超过10亿台设备接入互联网，每次查询的话都要从这里面查会比较慢。2. 大部分的网站用户根本不会上，就像大部分在黄页上的人我都不会联系。每上线一个小网站就更新全球的电脑这样显然小题大做了。那么有什么方法可以解决这个问题呢？
 
-![更新hosts]()
+![更新hosts](https://raw.githubusercontent.com/EngineGirl/basic-tutorial/master/imgs/basic/%E6%9B%B4%E6%96%B0hosts.png)
 
 
 现代的计算机域名查询ip会经过这几个步骤：
