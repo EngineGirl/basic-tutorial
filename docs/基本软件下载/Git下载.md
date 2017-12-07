@@ -1,5 +1,7 @@
 ### Git下载
 
+#### 作者：Windson Yang
+
     # Windows64位
     https://npm.taobao.org/mirrors/git-for-windows/2.12.0.windows.1/Git-2.12.0-64-bit.exe
     # Windows32位
